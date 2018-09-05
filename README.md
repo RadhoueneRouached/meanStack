@@ -19,7 +19,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Start Node.js server using this command: npx nodemon server
 - Start the Angular dev server using the following command: ng server –open
 - Go to this URL: http://localhost:4200/create
-
+### To avoid CORS access-control-allow-origin, you could
+- Disable  ads block extensions 
+- Install the plugin for chrome: Allow-Control-Allow-Origin(https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en)
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
