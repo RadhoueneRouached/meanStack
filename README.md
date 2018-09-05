@@ -10,6 +10,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - [Angular6](https://angular.io/) -  TypeScript-based open-source front-end web application platform led by the Angular Team at Google.
 - [Node.js](http://www.nodejs.org/) - Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.
 
+## Installation 
+-----------------
+
+- Clone the repository.
+- Run : npm install
+- Start the MongoDB server.
+- Start Node.js server using this command: npx nodemon server
+- Start the Angular dev server using the following command: ng server –open
+- Go to this URL: http://localhost:4200/create
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
